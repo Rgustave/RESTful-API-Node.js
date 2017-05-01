@@ -1,0 +1,29 @@
+{
+  "name": "gmrestapi",
+  "version": "1.0.0",
+  "description": "REST Api for GM interview assessment ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rgustave/gmBackendRESTApi.git"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Gus Rwagasore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rgustave/gmBackendRESTApi/issues"
+  },
+  "homepage": "https://github.com/Rgustave/gmBackendRESTApi#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.6",
+    "node-restful": "^0.2.6"
+  }
+}
